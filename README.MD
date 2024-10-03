@@ -1,6 +1,6 @@
-# Proyecto CRUD API en Django
+# Proyecto Algoritmo en Python
 
-Este repositorio contiene una API CRUD desarrollada con el framework Django (utiliza SQLite como Base de Datos), similar al Repositorio Prueba Técnica Laravel Ejercicio 1. A continuación, se explican los pasos para clonar y ejecutar este proyecto localmente.
+Este repositorio contiene una algoritmo desarrollado con el lenguaje Python. A continuación, se explican los pasos para clonar y ejecutar este proyecto localmente.
 
 ## Requisitos previos
 
